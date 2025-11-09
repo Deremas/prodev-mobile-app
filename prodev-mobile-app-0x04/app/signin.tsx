@@ -1,5 +1,5 @@
 import { View, Text, TextInput, TouchableOpacity, Image } from "react-native";
-import { styles } from "../styles/_join";
+import { styles } from "../styles/join";
 import { HEROLOGOGREEN, GOOGLELOGO, FACEBOOKLOGO } from "../constants";
 import { Ionicons, FontAwesome } from "@expo/vector-icons";
 
