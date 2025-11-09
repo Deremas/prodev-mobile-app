@@ -1,7 +1,7 @@
 // @ts-ignore
 const BACKGROUNDIMAGE = require("@/assets/images/hero-icon.png");
 // @ts-ignore
-const HEROLOGO = require("@/assets/images/Logo.png");
+const HEROLOGO = require("@/assets/images/logo.png");
 // @ts-ignore
 const HEROLOGOGREEN = require("@/assets/images/logo-green.png");
 // @ts-ignore
